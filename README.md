@@ -19,11 +19,11 @@ Or `brew tap webflo/pecl` and then `brew install <formula>`.
 ## Install drush-launcher
 
 ```
-brew tap webflo/drush/drush-launcher
+brew install webflo/drush/drush-launcher
 ```
 
-## Install drush-launcher
+## Install Drush 8
 
 ```
-brew tap webflo/drush/drush8
+brew install webflo/drush/drush8
 ```
