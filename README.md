@@ -7,7 +7,7 @@ Pull requests and version bumps are welcome.
 ## How do I install these formulae?
 `brew install webflo/drush/<formula>`
 
-Or `brew tap webflo/pecl` and then `brew install <formula>`.
+Or `brew tap webflo/drush` and then `brew install <formula>`.
 
 ## Taps in this repo
 
