@@ -5,11 +5,8 @@ class DrushLauncher < Formula
   sha256 "0ae18cd3f8745fdd58ab852481b89428b57be6523edf4d841ebef198c40271be"
   license "GPL-2.0-or-later"
 
-  depends_on "php" => :test
-  uses_from_macos "php"
-
   def install
-    bin.install "drush.phar" => "drush"
+    bin.install "drush" => "drush"
   end
 
   test do
