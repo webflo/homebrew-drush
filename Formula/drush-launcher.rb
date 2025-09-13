@@ -1,8 +1,8 @@
 class DrushLauncher < Formula
   desc "Small wrapper around Drush for your global $PATH"
-  homepage "https://github.com/drush-ops/drush-launcher"
-  url "https://github.com/drush-ops/drush-launcher/releases/download/0.10.2/drush.phar"
-  sha256 "0ae18cd3f8745fdd58ab852481b89428b57be6523edf4d841ebef198c40271be"
+  homepage "https://github.com/webflo/drush-launcher"
+  url "https://github.com/webflo/drush-launcher/archive/refs/tags/2.0.0.tar.gz"
+  sha256 "cc744ea0f9bdecc21254c9780b00ff4e7b060f9a7584627360c3901de28cfb5c"
   license "GPL-2.0-or-later"
 
   def install
